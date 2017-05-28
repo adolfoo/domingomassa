@@ -1,0 +1,5 @@
+[
+    {"id": 1, "label": "Até 5 anos", "price": 0.00},
+    {"id": 2, "label": "5 a 10 anos", "price": 15.00},
+    {"id": 3, "label": "11 anos ou mais", "price": 25.00}
+]

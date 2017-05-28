@@ -1,0 +1,23 @@
+{
+    "name": "adolfoo/domingomassa",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Luís Cobucci",
+            "email": "lcobucci@gmail.com"
+        }
+    ],
+    "require": {
+        "phpsc/pagseguro": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Adolfoo\\DomingoMassa\\": "src"
+        }
+    },
+    "config": {
+        "preferred-install": "dist",
+        "sort-packages": true
+    }
+}
